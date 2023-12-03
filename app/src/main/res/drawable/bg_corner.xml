@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/blue_50">
+        <shape android:shape="rectangle" android:thickness="5dp" android:tint="@color/red_50" />
+    </item>
+</selector>

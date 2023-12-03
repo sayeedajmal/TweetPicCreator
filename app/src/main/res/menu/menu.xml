@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/color_pointer"
+        android:iconTint="@color/red_A100"
+        android:title="HOME" />
+    <item
+        android:icon="@drawable/color_pointer"
+        android:iconTint="@color/red_A100"
+        android:title="NEW" />
+    <item
+        android:icon="@drawable/color_pointer"
+        android:iconTint="@color/red_A100"
+        android:title="SETTING" />
+</menu>
